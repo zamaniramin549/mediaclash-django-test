@@ -1,6 +1,6 @@
 # mediaclash-django-test
 
-Test Goals
+## Test Goals
 Our simple website has 2 main views, one for people who are interested in finding out more about our fictional company, and another for people who really are not interested. Each page has a different form for users to fill out to say why they are interested / not interested.
 
 The two views are at the following urls:
